@@ -5,8 +5,9 @@ Neural-Network-Assignment-in-Big-Data-Content-Analysis
 We are a business intelligence services provider that has been appointed by an Insurance Company in order to build a model that will classify whether or not we will  suggest an insurance contract to a potential customer. The aim of our project is that, the company will increase its profit by taking the right decision.
 In current assignment we are utilizing a dataset of 48,620 observations. The 80% of the data was randomly selected for the training data set – 38,896 observations and remaining 20% of the data was set aside for the testing – 9,724 observations.
 We started by making some pre-processing steps, such as data cleaning. After that, we used machine learning techniques such as Logistic Regression and at last, we developed deep learning architectures such as the Multilayer Perceptron and the Recurrent Neural Network.
-Python code files – General Description
-### This file describes the code files reading sequence. 
+
+### Python code files – General Description
+This file describes the code files reading sequence. 
 ```
 a.	prepare_data.py. It reads the csv files and creates the datasets that are necessary for running the modes.
 
