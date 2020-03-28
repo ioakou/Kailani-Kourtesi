@@ -12,7 +12,7 @@ a.	prepare_data.py. It reads the csv files and creates the datasets that are nec
 
 b.	ROC_Cover4.py. It creates ROC for Chewing Damage. Also, it reports other indices like F1-Score, etc.
 
-c.	Mlp.py Code for mlp testing for Chewing Damage
+c.	Mlp.py Code for mlp testing for Chewing Damage.
 
 d.	Logistic.py. Code for Logistic Regression.
 
